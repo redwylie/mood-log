@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily Mood Log">
+  <!-- Calm sprout mark: growth, gentleness. Palette mirrors the app's sage/clay tokens. -->
+  <rect width="512" height="512" rx="112" fill="#e7ede3"/>
+  <!-- stem -->
+  <path d="M256 380 V232" stroke="#7a8b6f" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <!-- left leaf -->
+  <path d="M256 300 C 196 300, 150 256, 150 196 C 214 196, 256 240, 256 300 Z" fill="#8aa17c"/>
+  <!-- right leaf (accent) -->
+  <path d="M256 268 C 316 268, 362 224, 362 164 C 298 164, 256 208, 256 268 Z" fill="#b07a55"/>
+  <!-- soft ground line -->
+  <path d="M176 392 H 336" stroke="#7a8b6f" stroke-width="16" stroke-linecap="round" opacity="0.5"/>
+</svg>
